@@ -1,4 +1,4 @@
-.App {
+html {
   background-color: #000;
   height: 100vh;
   display: grid;
@@ -11,4 +11,5 @@ main {
   border-radius: 3px;
   max-width: 375px;
   width: 100vw;
+  overflow-y: scroll;
 }
