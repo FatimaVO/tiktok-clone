@@ -16,3 +16,7 @@ video {
   background-color: transparent;
   border: none;
 }
+
+.hidden {
+  opacity: 0;
+}
